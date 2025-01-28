@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(122, 122, 126);
+}
+
+.hero {
+    background: rgb(229, 229, 233);
+    padding: 50px 0;
+}
+
+.card {
+    margin: 15px 0;
+}
+
+.hover:hover{
+    
+    border: 3px solid rgb(68, 67, 67);
+ }
+ .hover-item:hover{
+    border: 2px solid rgb(242, 242, 247);
+    border-radius: 10px;
+    color: #f8f9fa;
+
+ }
+ 
